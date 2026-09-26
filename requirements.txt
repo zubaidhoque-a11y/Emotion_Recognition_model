@@ -1,8 +1,6 @@
-fastapi==0.104.1
-uvicorn==0.24.0
-python-multipart==0.0.6
-pydantic==2.5.0
-tensorflow==2.14.0
-keras==2.14.0
-numpy==1.24.3
-scipy==1.11.4
+streamlit==1.39.0
+langchain-groq==0.1.2
+langchain-core==0.3.0
+tavily-python==0.3.11
+python-dotenv==1.0.1
+requests==2.32.3
