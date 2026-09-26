@@ -1,6 +1,6 @@
-streamlit==1.39.0
-langchain-groq==0.1.2
-langchain-core==0.3.0
-tavily-python==0.3.11
-python-dotenv==1.0.1
-requests==2.32.3
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+tensorflow-cpu==2.17.0
+numpy==1.26.4
+h5py==3.11.0
